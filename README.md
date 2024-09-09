@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![mygif](https://github.com/user-attachments/assets/b2434101-ccb2-46ea-ad52-e278d51a7d05)
+
+
 <!--
 **usman-shahbaz/usman-shahbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
