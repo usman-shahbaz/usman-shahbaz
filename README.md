@@ -1,25 +1,12 @@
                                       ![mygif](https://github.com/user-attachments/assets/b2434101-ccb2-46ea-ad52-e278d51a7d05)
 
 
-<!--
-**usman-shahbaz/usman-shahbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
   <img src="https://github.com/iaiu2142/iaiu2142/blob/main/assets/mygif.gif" alt="Image Here" width: 460px; height: 350px;">
 </p>
-<h1 align="center">Hi 👋, Ilsa Afzaal here</h1>
-<h3 align="center">Visionary Frontend Developer Igniting Digital Magic ✨🚀</h3>
+<h1 align="center">Hi 👋, Usman Shahbaz here</h1>
+<h3 align="center">AI Developer ✨🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iaiu2142&label=Profile%20views&color=0e75b6&style=flat" alt="iaiu2142" /> </p>
 
@@ -27,18 +14,18 @@ Here are some ideas to get you started:
 
 <h2 align="left">About Me 🌠</h2>
 
-- 🔭 I’m currently working on **ReactJS**
+- 🔭 I’m currently working on **Artificial 'intelligence**
 - 🌱 I’m currently learning **NextJS**
 - 👯 I’m looking to collaborate on **Front-End Developement**
 - 🤝 I’m looking for help with **NextJS and other F.E. Tools**
 - 💬 Ask me about **REACT and UI/UX**
-- 📫 Shoot your queries at **ilsaafzaal2142@gmail.com**
+- 📫 Shoot your queries at **usmanshahbaz.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left">
 <a href="https://www.youtube.com/@learningwithilsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@learningwithilsa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/ilsaafzaal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ilsaafzaal/" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -57,9 +44,3 @@ Here are some ideas to get you started:
 | **Python** | **React** | **Redux** | **Sass** | **Tailwind CSS** |
 
 </center>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iaiu2142&show_icons=true&locale=en&layout=compact" alt="iaiu2142" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iaiu2142&show_icons=true&locale=en" alt="iaiu2142" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iaiu2142&" alt="iaiu2142" /></p>
