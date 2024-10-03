@@ -1,4 +1,9 @@
-# Hi, I'm [Your Name]! 👋
+
+![mygif](https://github.com/user-attachments/assets/5b925d1c-9831-4a3e-a674-74d07cf08a8b)
+
+
+
+# Hi 👋, Usman Shahbaz here
 
 🔍 **AI Developer | Machine Learning Enthusiast | Innovator in Intelligence**
 
@@ -26,31 +31,6 @@
 
 ---
 
-### 👨‍💻 Featured Projects
-
-#### 1. **[AI-Powered Chatbot](https://github.com/your-username/chatbot-ai)**
-   - 🤖 A state-of-the-art conversational AI that understands **natural language** and engages in fluid, human-like dialogues.
-   - 🔧 Built using **GPT-3** and **Reinforcement Learning**.
-   - 🚀 Deployed on cloud with **Docker** and **Kubernetes** for seamless scaling.
-
-#### 2. **[Image Classifier Pro](https://github.com/your-username/image-classifier-pro)**
-   - 🖼️ A highly accurate **image classification** tool leveraging deep learning and **CNN** architectures.
-   - 🏆 Achieved **95%+ accuracy** on custom datasets.
-   - 🔍 Implemented advanced data augmentation for enhanced learning.
-
-#### 3. **[AutoML Pipeline](https://github.com/your-username/automl-pipeline)**
-   - 🔄 Automated end-to-end pipeline that handles **data preprocessing**, **model selection**, and **hyperparameter tuning**.
-   - ⚙️ Powered by **scikit-learn** and **Optuna** for efficient optimization.
-   - 🌐 Integrated into **MLOps workflow** for automated retraining and monitoring.
-
----
-
-### 📈 My GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
 ### 🧠 Fun Facts
 
 - 🤖 I love the idea of teaching machines to think **beyond binary logic**.
@@ -61,24 +41,12 @@
 
 ### 🔗 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 💼 [LinkedIn](http://www.linkedin.com/in/usman-shahbaz71)
 - 🐦 [Twitter](https://twitter.com/your-twitter)
-- 📧 [Email](mailto:your-email@example.com)
+- 📧 [Email](mailto:usmanshahbaz.dev@gmail.com)
 
 --- 
 
 🌱 *"The future belongs to those who dare to teach machines to dream."*
-
----
-
-### ✨ Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
-
----
-
-### Contribution Workflow Badges
-
-<!-- Dynamic Badges for workflow stats -->
 
 ---
