@@ -12,9 +12,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **AI-powered solutions** that transform businesses and enhance user experiences.
-- 🌱 I’m exploring the **cutting-edge frontiers of Generative AI**, including Large Language Models, Deep Learning, and Reinforcement Learning.
 - 🛠️ I have a passion for building **intelligent systems** that solve real-world problems and bridge the gap between **technology and humanity**.
-- 💬 Ask me about **AI model training, MLOps, NLP, and deploying ML in production** – always happy to brainstorm!
 
 ---
 
