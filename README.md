@@ -45,7 +45,7 @@
 
 - 🤖 I love the idea of teaching machines to think **beyond binary logic**.
 - 🎮 When I’m not coding, I’m gaming or tinkering with **robotics**.
-- 🌍 I’m a strong believer that AI can be a force for **good**, shaping a more sustainable and intelligent future.
+- 🌍 I’m a strong believer that AI can be a force for **good**, shaping more sustainable and intelligent future.
 
 ---
 
