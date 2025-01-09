@@ -5,7 +5,7 @@
 
 # Hi 👋, Usman Shahbaz here
 
-🔍 **AI Developer | Machine Learning Enthusiast | Innovator in Intelligence**
+🔍 **AI Developer | Data Engineering | Innovator in Intelligence**
 
 ---
 
