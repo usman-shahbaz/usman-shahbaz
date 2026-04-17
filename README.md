@@ -30,7 +30,7 @@
 | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/CatBoost_logo.svg"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/> | <img height="50" src="https://pycaret.org/wp-content/uploads/2020/08/pycaret-logo-white-transparent.png"/> |
 | **CatBoost** | **Python** | **Apache Spark** | **Google Colab** | **PyCaret** |
 | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/LightGBM_logo.png"/> | <img height="50" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_cloud_logo.svg/512px-Google_cloud_logo.svg.png"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Azure_Logo.svg"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"/> |
-| **LightGBM** | **AWS ML** | **Google Cloud AI** | **Azure AI** | **Flask** |
+| **AWS ML** | **Google Cloud AI** | **Azure AI** | **Flask** |
 | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg"/> | <img height="50" src="https://www.svgrepo.com/show/306675/gemini.svg"/> | <img height="50" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/> |
 | **OpenAI** | **Gemini** | **AWS** | **Node Js** |
 
