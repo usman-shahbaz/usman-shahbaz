@@ -5,7 +5,7 @@
 
 # Hi 👋, Usman Shahbaz here
 
-🔍 **AI Developer | Passionate about building AI-powered and backend-driven applications | Innovator in Intelligence**
+🔍 **AI Developer | Passionate about building AIs | Innovator in Intelligence**
 
 ---
 
