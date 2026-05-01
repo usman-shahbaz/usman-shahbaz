@@ -3,7 +3,7 @@
 
 
 
-# Hi 👋, Usman Shahbaz her
+# Hi 👋, Usman Shahbaz here
 
 🔍 **AI Developer | Passionate about building AIs | Innovator in Intelligence**
 
