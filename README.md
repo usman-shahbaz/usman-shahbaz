@@ -21,7 +21,7 @@
 <center>
   
 | <img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"/> | <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/> | <img height="50" src="https://pandas.pydata.org/static/img/pandas_white.svg"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/> |
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 | **Pandas** | **NumPy** |
 | <img height="50" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"/> | <img height="50" src="https://matplotlib.org/stable/_static/images/logo2.svg"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/OpenCV_logo_and_wordmark.png"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Dask_logo.svg"/>|
 | **Seaborn** | **Matplotlib** |
