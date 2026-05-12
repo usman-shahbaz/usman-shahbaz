@@ -5,7 +5,7 @@
 
 # Hi 👋, Usman Shahbaz here 
 
-🔍 **AI Developer | Passionate about building AIs 
+🔍 **AI Developer |
 
 ---
 
