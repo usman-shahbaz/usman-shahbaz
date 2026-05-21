@@ -5,7 +5,7 @@
 
 # Hi 👋, Usman Shahbaz here 
 
-🔍 **AI Developer | he
+🔍 **AI Developer | 
 
 ---
 
