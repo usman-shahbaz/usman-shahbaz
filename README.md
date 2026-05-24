@@ -36,9 +36,6 @@
 
 </center>
 
-
-
-
 ---
 
 ### 🧠 Fun Facts
