@@ -2,7 +2,7 @@
 ![mygif](https://github.com/user-attachments/assets/5b925d1c-9831-4a3e-a674-74d07cf08a8b)
 
 
-# Hi 👋, Usman Shahbaz here 
+# Hi , Usman Shahbaz here 
 
 **AI Developer
 
