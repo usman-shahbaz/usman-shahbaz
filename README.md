@@ -11,8 +11,8 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **AI-powered solutions** that transform businesses and enhace user experiences.
-- 🛠️ I have a passion for building **intelligent systems** that solve real-world problems and bridge the gap between **technology and hum
-
+- 🛠️ I have a passion for building **intelligent systems** that solve real-world problems
+- 
 ---
 
 ### 🧠 My AI Toolbox
