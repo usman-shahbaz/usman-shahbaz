@@ -4,7 +4,7 @@
 
 # Hi , Usman Shahbaz 
 
-**AI | Machine Learning
+**Artificial Intelligence | Machine Learning
 
 ---
 
