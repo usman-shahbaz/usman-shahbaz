@@ -15,7 +15,7 @@
 - 
 ---
 
-### 🧠 My AI Toolbox
+### 🧠 My AI Tools
 
 <center>
   
