@@ -4,7 +4,7 @@
 
 # Hi , Usman Shahbaz 
 
-**AI Developer
+**AI | Machine Learning
 
 ---
 
