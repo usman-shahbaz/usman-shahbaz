@@ -21,7 +21,7 @@
   
 | <img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"/> | <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/> | <img height="50" src="https://pandas.pydata.org/static/img/pandas_white.svg"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"/> | <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/> |
 |:---:|:---:|:---:|:---:|
-| **Pandas** | **NumPy** |**Python** |
+| **Pandas** | **NumPy** |**Python** |**Hugging Face** |
 | <img height="50" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"/> | <img height="50" src="https://matplotlib.org/stable/_static/images/logo2.svg"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/OpenCV_logo_and_wordmark.png"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Dask_logo.svg"/>|
 | **Jupyter** | **Hugging Face** | **AWS Bedrock** |
 | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/CatBoost_logo.svg"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/> | <img height="50" src="https://pycaret.org/wp-content/uploads/2020/08/pycaret-logo-white-transparent.png"/> |
