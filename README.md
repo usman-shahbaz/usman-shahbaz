@@ -15,7 +15,7 @@
 - 
 ---
 
-### 🧠 My AI Tools
+### 🧠 My AI Tools stack
 
 <center>
   
