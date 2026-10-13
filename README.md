@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Usman Shahbaz!
 
-### 🤖 I build AI that does more than just say "Hello, World!"
+### 🤖 I build AI that do more than just say "Hello, World!"
 
 <p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+the+Making+%F0%9F%A7%A0;Building+LLMs%2C+RAG+%26+AI+Agents+%F0%9F%A4%96;Turning+Coffee+into+Code+%E2%98%95;Debugging+Today%2C+Automating+Tomorrow+%E2%9A%A1" alt="Typing SVG" />
