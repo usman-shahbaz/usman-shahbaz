@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Usman Shahbaz!
+# 👋 Hey, I'm Usman Shahbaz
 
 ### 🤖 I build AI that do more than just say "Hello, World!"
 
