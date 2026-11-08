@@ -99,7 +99,6 @@ print(me.learn())
 | 🤖 AI Agents | Systems that use tools to complete tasks |
 | 📚 RAG Applications | AI that answers questions using relevant knowledge |
 | 💬 AI Assistants | Smarter conversations backed by real data |
-| ⚙️ Backend APIs | 
 
 *Explore my repositories to see what I'm experimenting with right now.*
 
