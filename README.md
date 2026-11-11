@@ -104,10 +104,6 @@ print(me.learn())
 
 ---
 
-## 📊 GitHub: The Developer Dashboard
-
----
-
 ## 🎮 Outside the Terminal
 
 - 🎮 Gaming enthusiast — sometimes I play games, sometimes I study their AI.
